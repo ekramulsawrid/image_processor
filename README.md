@@ -18,7 +18,9 @@ Starter program given by Professor [George Wolberg](http://www-cs.engr.ccny.cuny
     - Mediam Flitering
     - Convolution
     
+## Compile and Run
 
+[Compile and Run](https://github.com/ekramulsawrid/image_processor/blob/main/Compiling%20CS470.pdf)
 
-
+Run Application: CS470_HW.exe
 
