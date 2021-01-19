@@ -19,6 +19,16 @@ Starter program given by Professor [George Wolberg](http://www-cs.engr.ccny.cuny
     - Mediam Flitering
     - Convolution
     
+## Screenshots
+
+- Threshold
+
+![threshold_input](/images/readme/threshold1A.PNG)
+![threshold_output](/images/readme/threshold1B.PNG)
+
+
+
+    
 ## Compile and Run
 
 [Compile and Run](https://github.com/ekramulsawrid/image_processor/blob/main/Compiling%20CS470.pdf)
