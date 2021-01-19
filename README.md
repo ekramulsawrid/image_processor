@@ -9,6 +9,7 @@ Starter program given by Professor [George Wolberg](http://www-cs.engr.ccny.cuny
     - Clipping
     - Constrast Enhancement
     - Gamma Correction
+    - Quantization
     - Histogram Stretching
     - Histogram Mathcing
   - Neighborhood Operations
