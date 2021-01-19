@@ -39,8 +39,8 @@ Starter program given by Professor [George Wolberg](http://www-cs.engr.ccny.cuny
 
 - Blur
 
-![blur_input](/images/readme/blur1A.PNG.PNG)
-![blur_output](/images/readme/blur1B.PNG.PNG)
+![blur_input](/images/readme/blur1A.PNG)
+![blur_output](/images/readme/blur1B.PNG)
 
 - Convolution (Laplacian Kernel)
 
